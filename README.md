@@ -7,7 +7,7 @@ Industrial Edge IoT Gateway
 
 <center><h1><b>Fateit-Xihe Industrial Edge IoT gateway</b></h1></center><br>
 
-<h3 style="color:red;letter-spacing: 1px;">*See the <b>user manual</b> for more details,the appendix contains usage examples based on Raspi 4b.</h3><br>
+<h3 style="color:red;letter-spacing: 1px;">*See the <b>user manual</b> for more details,the appendix contains usage examples based on Raspi 4b.</h3><br> 
 
 ![avatar](images/main-en_US.png)
 
