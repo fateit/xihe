@@ -8,13 +8,12 @@ Industrial Edge IoT Gateway
 </div>
 
 >### <h1>Catalog</h1>
-
-[<b style="font-size:24px;">1.Introduction</b>](#<h1>1.Introduction</h1>)    
-[<b style="font-size:24px;">2.UpdateNotes</b>](#2.UpdateNotes)   
+<a href="#c_Introduction">1.Introduction</a><br>
 <a href="#c_UpdateNotes">2.UpdateNotes</a>
 
 >### <h1>1.Introduction</h1>
 
+<span id='c_Introduction'></span>
 <center><h1><b>Fateit-Xihe Industrial Edge IoT gateway</b></h1></center><br>
 
 <h3 style="color:red;letter-spacing: 1px;">*See the <b>user manual</b> for more details,the appendix contains usage examples based on Raspi 4b.</h3><br> 
