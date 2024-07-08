@@ -8,8 +8,8 @@ Industrial Edge IoT Gateway
 </div>
 
 >### <h1>目录</h1>
-<a href="#c_Introduction">1.Introduction</a><br>
-<a href="#c_UpdateNotes">2.UpdateNotes</a>
+<a href="#c_Introduction">1.介绍</a><br>
+<a href="#c_UpdateNotes">2.更新日志</a>
 
 
 
