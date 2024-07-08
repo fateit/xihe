@@ -50,6 +50,6 @@ Industrial Edge IoT Gateway
 |Version|Date|Notes|Details
 |-|-|-|-
 | V1.1.0  |2024-07| <label style="color:red">1.增加Mqtt協議對標籤讀寫的支持，以及系統事件推送<br>2.增加開放的獲取時間戳介面：timestamp</label>|[v1.1.0](./manual/v1.1.0/README_zh_TW.md)
-| v1.0.0  |2024-04| Release |[v1.0.0](./manual/v1.0.0/README.md)
+| v1.0.0  |2024-04| Release |[v1.0.0](./manual/v1.0.0/README.MD)
 
 </div>
