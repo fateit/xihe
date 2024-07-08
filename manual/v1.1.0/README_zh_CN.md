@@ -1,7 +1,7 @@
 <h1 style="color:red;letter-spacing: 1px;">v1.1.0 <b>用户手册</b></h1>
 
 
-<a href="./../../README.md">[Back]</a><br>
+<a href="./../../README_zh_CN.md">[Back]</a><br>
 
 >### <h1>目录</h1>
 
