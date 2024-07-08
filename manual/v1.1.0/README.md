@@ -1,7 +1,8 @@
 <h1 style="color:red;letter-spacing: 1px;">v1.1.0 <b>User Manual</b></h1>
 
 
-[<h3><b>[Back]</b></h3>](./../../README.md)
+<a href="./../../README.md">[Back]</a><br>
+
 
 >### <h1>Catalogue</h1>
 
