@@ -10,7 +10,8 @@ Industrial Edge IoT Gateway
 >### <h1>Catalog</h1>
 
 [<b style="font-size:24px;">1.Introduction</b>](#<h1>1.Introduction</h1>)    
-[<b style="font-size:24px;">2.UpdateNotes</b>](#<h1>2.UpdateNotes</h1>)   
+[<b style="font-size:24px;">2.UpdateNotes</b>](#2.UpdateNotes)   
+<a href="#c_UpdateNotes">2.UpdateNotes</a>
 
 >### <h1>1.Introduction</h1>
 
@@ -39,12 +40,9 @@ Industrial Edge IoT Gateway
 
 
 
->### <h1>2.UpdateNotes</h1>
-
-
-<center><h1><b>2.Update Notes</b></h1></center><br>
-
-<h3 style="color:red;letter-spacing: 1px;">*更多详细信息请查看<b>用户手册</b>，附录有基于Raspi 4b的应用实例。</h3><br>
+>### 2.UpdateNotes
+<span id='c_UpdateNotes'></span>
+<h3 style="color:red;letter-spacing: 1px;">*For more detailed information, please refer to the<b>User Manual</b>, which includes application examples based on Raspi 4b in the appendix.</h3><br>
 <div style="font-size:16px;">
 
 |Version|Date|Notes|Details
