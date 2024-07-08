@@ -8,14 +8,13 @@ Industrial Edge IoT Gateway
 </div>
 
 >### <h1>目录</h1>
-
-[<b style="font-size:24px;">1.介绍</b>](#<h1>1.介绍</h1>)    
-[<b style="font-size:24px;">2.更新日志</b>](#<h1>2.更新日志</h1>)   
+<a href="#c_Introduction">1.Introduction</a><br>
+<a href="#c_UpdateNotes">2.UpdateNotes</a>
 
 
 
 >### <h1>介绍</h1>
-
+<span id='c_Introduction'></span>
 
 <center><h1><b>Fateit-Xihe 工业边缘物联网关</b></h1></center><br>
 
@@ -44,16 +43,13 @@ Industrial Edge IoT Gateway
 
 
 >### <h1>2.更新日志</h1>
-
-
-<center><h1><b>2.更新日志</b></h1></center><br>
-
+<span id='c_UpdateNotes'></span>
 <h3 style="color:red;letter-spacing: 1px;">*更多详细信息请查看<b>用户手册</b>，附录有基于Raspi 4b的应用实例。</h3><br>
 <div style="font-size:16px;">
 
-|  Version   |  Date  |  Notes  | Details
-|  ----  |----| ----   | ---- | ---- 
-| V1.1.0  |2024-07| <label style="color:red;">1.增加Mqtt协议对标签读写的支持，以及系统事件推送<br>2.增加开放的获取时间戳接口：timestamp</label>|[v1.1.0](./manual/v1.1.0/README_zh_CN.md)
+|Version|Date|Notes|Details
+|-|-|-|-
+| V1.1.0  |2024-07| <b>1.增加Mqtt协议对标签读写的支持，以及系统事件推送<br>2.增加开放的获取时间戳接口：timestamp</b>|[v1.1.0](./manual/v1.1.0/README_zh_CN.md)
 | v1.0.0  |2024-04| Release |[v1.0.0](./manual/v1.0.0/README.md)
 
 </div>
