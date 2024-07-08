@@ -47,8 +47,10 @@ Industrial Edge IoT Gateway
 <h3 style="color:red;letter-spacing: 1px;">*更多详细信息请查看<b>用户手册</b>，附录有基于Raspi 4b的应用实例。</h3><br>
 <div style="font-size:16px;">
 
-|  Version   |  Date  |  Notes  | Details
-|  ----  |----| ----   | ---- | ---- 
-| V1.1.0  |2024-07| <label style= "color: red;"> 1. Add support of Mqtt protocol for label read and write, and system event push <br> 2. Add open access timestamp interface: timestamp </label>|[v1.1.0](./manual/v1.1.0/README.md)
+|Version|Date|Notes|Details
+|-|-|-|-
+| V1.1.0  |2024-07| <b> 1. Add support of Mqtt protocol for label read and write, and system event push <br> 2. Add open access timestamp interface: timestamp </b>|[v1.1.0](./manual/v1.1.0/README.md)
 | v1.0.0  |2024-04| Release |[v1.0.0](./manual/v1.0.0/README.md)
+
+
 </div>
